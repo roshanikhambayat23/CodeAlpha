@@ -1,0 +1,28 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: #fff;
+}
+h2{
+    text-transform: uppercase;
+}
+
+body{
+    font: "Releway", sans-serif;
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    letter-spacing: 0cm;
+    top: 15%;
+    background: linear-gradient(to right, yellow, red);
+}
+
+.random-button{
+
+  background-color: orangered;
+  border: none;
+  border-radius: 2px;
+  color: rgba(0, 0, 0, 0.5);
+  padding: 15px 12px;
+  font-size: 13px;
+  font-family: "Releway", sans-serif;
+}
